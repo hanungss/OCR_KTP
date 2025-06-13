@@ -1,4 +1,13 @@
 # 🪪 OCR KTP ke Excel 🇮🇩
+[![PyTesseract](https://img.shields.io/badge/pytesseract-%20OCR-lightgrey)](https://pypi.org/project/pytesseract/)
+[![OpenCV](https://img.shields.io/badge/opencv-python-blue)](https://pypi.org/project/opencv-python/)
+[![Pillow](https://img.shields.io/badge/Pillow-image--processing-green)](https://pypi.org/project/Pillow/)
+[![Pandas](https://img.shields.io/badge/pandas-dataframe-orange)](https://pypi.org/project/pandas/)
+[![Openpyxl](https://img.shields.io/badge/openpyxl-excel-lightblue)](https://pypi.org/project/openpyxl/)
+[![Dotenv](https://img.shields.io/badge/python--dotenv-envvars-yellowgreen)](https://pypi.org/project/python-dotenv/)
+[![Google Cloud Vision](https://img.shields.io/badge/google--cloud--vision-OCR-lightblue)](https://pypi.org/project/google-cloud-vision/)
+[![EasyOCR](https://img.shields.io/badge/easyocr-AI--OCR-brightgreen)](https://pypi.org/project/easyocr/)
+
 
 Aplikasi Python untuk mengekstrak data dari gambar KTP Indonesia secara otomatis ke dalam file Excel.
 
